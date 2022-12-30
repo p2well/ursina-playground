@@ -29,7 +29,7 @@ def add_box(position):
                origin=0.5,
                color=random_color(),
                position=position,
-               texture='metal'
+               texture='grass'
                )
     )
 
